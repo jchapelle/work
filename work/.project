@@ -14,4 +14,11 @@
 	<natures>
 		<nature>org.eclipse.wst.jsdt.core.jsNature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>test/react-webpack-node-master</name>
+			<type>2</type>
+			<location>D:/www/react-webpack-node-master</location>
+		</link>
+	</linkedResources>
 </projectDescription>
